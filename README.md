@@ -3,3 +3,4 @@
 Testing automatic trigger
 
 Email notification test 1.
+Email notification test 2.
